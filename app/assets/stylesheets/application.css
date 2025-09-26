@@ -11,15 +11,7 @@
  * It is generally better to create a new file per style scope.
  *
  *= require bootstrap.min
- *= require ace.min
- *= require ace-rtl.min
- *= require ace-part2.min
- *= require font-awesome/css/font-awesome.min
- *= require jquery-ui.min
- *= require jquery-ui.custom.min
- *= require custom
- *= require etalage
- *= require nivo-slider
+ 
 
 
  */
